@@ -1,3 +1,4 @@
+![](theSpookery.png)
 ### Hi there 👋
 
 <!--
