@@ -1,17 +1,73 @@
-![](theSpookery.png)
+<!--![]()-->
+
+<div align="center">
+<a href="https://www.linkedin.com/in/harshpatel8848/" target="_blank" rel="nofollow"><img align="right" alt="Harsh Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/harsh06768/" target="_blank" rel="nofollow"><img align="right" alt="Harsh Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+</div>
+
+<img src='https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif' align='left' height="300px">
 ### Hi there 👋
 
 <!--
-**harsh06768/harsh06768** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**harsh06768/harsh06768** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+🏫 I'm Harsh Patel currently a Fourth Year CSE student at Mahakal Institute of Technology, Ujjain <br/>
+🔭 I’m currently working on Android Project <br/>
+🌱 I’m currently learning Advanced Android Development <br/>
+💬 Ask me about Porgramming,Technology,GeoPolitics,World Affairs <br/>
+🌐 Connect with me on Linkedin and Instagram -----> [Instagram](https://www.instagram.com/harsh06768/) -----> [LinkedIn](https://www.linkedin.com/in/harshpatel8848/)  <br/>
+😄 Pronouns: Coder, Learner, Enthusiastic, Passionate <br/>
+⚡ Fun fact: ... <br/> <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<summary><b> My Project Work :point_right:</b></summary>
+<table>
+  <thead>
+    <tr>
+      <th>Project Name</th>
+      <th>Skills used</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://github.com/harsh06768/Vehicle-Showroom-Automation'>Vehicle Showroom Automation</a></td>
+      <td>Java, Java Swing, MYSQL, NetBeans</td>
+      <td>Vehicle Showroom Automation is Desktop Application built in java, helps you to manage work of vehicle showroom in more efficient and systematic way.You can manage all           your data related to customer, dealer, employees, vehicle stock, generating receipt and details of vehicles using this software.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/harsh06768/Android-Project-LangFire">Lang Fire</a></td>
+      <td>Java, Android Studio, Firebase</td>
+      <td>Lang Fire is a Programming Android Quiz App where you can increase your programming skills by solving multiple coding languages Questions . You can test your skills             and rate yourself accordingly by checking your Score.</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/harsh06768/Online-Mart'>Online Mart</a></td>
+      <td>Java, Java Servlet, JavaScript, HTML, CSS, BootStrap MYSQL, PhpMyAdmin</td>
+      <td>Online Mart is a Web Application use to purchase product over the Internet. Customer can search and buy their favorite product from anywhere and anytime. Where Admin             module can do operations like Add, Delete, Search, and View Product and can manage the whole database.</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/harsh06768/Python-Flask-Blogging-Website'>Blogging website</a></td>
+      <td>Python, Python Flask, PostgresSQL, HTML, CSS, Bootstrap </td>
+      <td>Blogging website is a project which i developed using Flask and python.The website allows you to post your daily blog and content on the website.There is an admin               panel also available from where you can Add, Delete, Edit your post and also receive queries and suggestion from users.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/harsh06768/Todo_List">Todo List Application</a></td>
+      <td>Python,Python Flask HTML, CSS, MYSQL</td>
+      <td>I made this project when i was learning web development using Flask.As developing any project is the best way to grow any skill .
+          About the project::
+          To-do List is a simple web application where you organize your work and daily task more efficiently.</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/harsh06768/Document-Scanner'>Document Scanner</a></td>
+      <td>OpenCV, Python </td>
+      <td>Desktop Application to scan images.</td>
+    </tr>
+     <tr>
+      <td><a href='https://github.com/harsh06768/Zoom-Automation'>Zoom-Automation</a></td>
+      <td>Python</td>
+      <td>An Automation script to automatically join a scheduled zoom meeting at a specific time without manual appearance..</td>
+    </tr>
+  </tbody>
+</table>
+</details>
+<!-- end work project section -->
+
