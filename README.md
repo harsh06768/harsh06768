@@ -15,11 +15,25 @@
 🌱 I’m currently learning Advanced Android Development <br/>
 💬 Ask me about Porgramming,Technology,GeoPolitics,World Affairs <br/>
 🌐 Connect with me on Linkedin and Instagram -----> [Instagram](https://www.instagram.com/harsh06768/) -----> [LinkedIn](https://www.linkedin.com/in/harshpatel8848/)  <br/>
-😄 Pronouns: Coder, Learner, Enthusiastic, Passionate <br/>
-⚡ Fun fact: ... <br/> <br/>
+😄 Pronouns: Coder, Learner, Enthusiastic, Passionate 
 
-<details>
-<summary><b> My Project Work :point_right:</b></summary>
+<br/>
+<br/>
+
+
+
+<b> My Statistics  </b>
+<img src='https://github-readme-stats.vercel.app/api?username=harsh06768&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=harsh06768&theme=tokyonight&hide_langs_below=4' />
+
+
+
+
+
+
+
+ <!-- <details> -->
+<b> My Project Work :point_right:</b>
 <table>
   <thead>
     <tr>
@@ -68,6 +82,10 @@
     </tr>
   </tbody>
 </table>
-</details>
+  <!-- </details> -->
 <!-- end work project section -->
+
+
+
+
 
