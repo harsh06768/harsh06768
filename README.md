@@ -12,11 +12,11 @@
 <!--
 **harsh06768/harsh06768** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-🏫 I'm Harsh Patel currently a Fourth Year CSE student at Mahakal Institute of Technology, Ujjain <br/>
+🏫 Hi, I'm Harsh Patel, a passionate Android and Web Developer.I'm Currently a Fourth Year CSE student at Mahakal Institute of Technology, Ujjain <br/>
 🔭 I’m currently working on Android Project <br/>
 🌱 I’m currently learning Advanced Android Development <br/>
 💬 Ask me about Porgramming,Technology,GeoPolitics,World Affairs <br/>
-😄 Pronouns: Coder, Learner, Enthusiastic, Passionate 
+😄 Pronouns: Coder, Learner, Enthusiastic, Passionate <br/>
 ⚡ Fun fact: I ❤️ Playing Video Games 
 <br/>
 <br/>
@@ -45,7 +45,7 @@
 
 
 
-<h4><b> My Statistics</b> <h4/> 
+<h4><b> My GitHub Stats</b> <h4/> 
  
 <img src='https://github-readme-stats.vercel.app/api?username=harsh06768&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=harsh06768&theme=tokyonight&hide_langs_below=4' />
