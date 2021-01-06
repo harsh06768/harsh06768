@@ -12,7 +12,7 @@
 <!--
 **harsh06768/harsh06768** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-🧑‍💻 Hi, I'm Harsh Patel, a passionate Android and Web Developer.
+🧑‍💻 Hi, I'm Harsh Patel, a passionate Android and Web Developer. <br/>
 🏫 I'm Currently a Fourth Year CSE student at Mahakal Institute of Technology, Ujjain <br/>
 🔭 I’m currently working on Android Project <br/>
 🌱 I’m currently learning Advanced Android Development <br/>
