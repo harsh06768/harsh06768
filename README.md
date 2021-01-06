@@ -20,7 +20,6 @@
 
 <br/>
 <br/>
-  ![](https://img.shields.io/badge/Web%20Development-%3C%2F%3E-blueviolet) 
 <br/>
 <br/> <br/> 
 
