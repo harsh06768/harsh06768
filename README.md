@@ -1,8 +1,10 @@
 <!--![]()-->
 
-<div align="center">
+<!--<div align="center">
 <a href="https://www.linkedin.com/in/harshpatel8848/" target="_blank" rel="nofollow"><img align="right" alt="Harsh Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/harsh06768/" target="_blank" rel="nofollow"><img align="right" alt="Harsh Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-</div>
+</div>-->
+[![Linkedin Badge](https://img.shields.io/badge/-@harshpatel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshpatel8848/)](https://www.linkedin.com/in/harshpatel8848/)  [![Facebook Badge](https://img.shields.io/badge/-@harshpatel-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100006254805475)](https://www.facebook.com/profile.php?id=100006254805475) [![Instagram Badge](https://img.shields.io/badge/-@harshpatel-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/harsh06768/)](https://www.instagram.com/harsh06768/)
+
 
 <img src='https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif' align='left' height="300px">
 ### Hi there 👋
