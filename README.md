@@ -47,9 +47,6 @@
 <br/>
 
 
-<br/> <br/> 
-  
-
 <h4><b> My GitHub Stats</b> <h4/> 
  
 <img src='https://github-readme-stats.vercel.app/api?username=harsh06768&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
@@ -61,6 +58,9 @@
 
 
  <!-- <details> -->
+ <br/>
+ <br/>
+ <br/>
 <b> My Project Work :point_right:</b>
 <table>
   <thead>
