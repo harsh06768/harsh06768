@@ -17,6 +17,7 @@
 🌱 I’m currently learning Advanced Android Development <br/>
 💬 Ask me about Porgramming,Technology,GeoPolitics,World Affairs <br/>
 😄 Pronouns: Coder, Learner, Enthusiastic, Passionate 
+⚡ Fun fact: I ❤️ Playing Video Games 
 <br/>
 <br/>
 <br/>
