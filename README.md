@@ -17,7 +17,7 @@
 🌱 I’m currently learning Advanced Android Development <br/>
 💬 Ask me about Porgramming,Technology,GeoPolitics,World Affairs <br/>
 😄 Pronouns: Coder, Learner, Enthusiastic, Passionate 
-<p text-align="right">
+<p text-align="left">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
