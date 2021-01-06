@@ -16,11 +16,11 @@
 🔭 I’m currently working on Android Project <br/>
 🌱 I’m currently learning Advanced Android Development <br/>
 💬 Ask me about Porgramming,Technology,GeoPolitics,World Affairs <br/>
-🌐 Connect with me on Linkedin and Instagram -----> [Instagram](https://www.instagram.com/harsh06768/) -----> [LinkedIn](https://www.linkedin.com/in/harshpatel8848/)  <br/>
 😄 Pronouns: Coder, Learner, Enthusiastic, Passionate 
 
 <br/>
 <br/>
+  ![](https://img.shields.io/badge/Web%20Development-%3C%2F%3E-blueviolet) 
 <br/>
 <br/> <br/> 
 
