@@ -15,10 +15,11 @@
 🧑‍💻 Hi, I'm Harsh Patel, a passionate FullStack Web Developer. <br/>
 🏫 I have done B.Tech in Computer Science from Mahakal Institute of Technology, Ujjain <br/>
 🔭 I’m currently working as a Software Engineer in Mindtree <br/>
-<!-- 🌱 I’m currently learning  <br/> -->
 💬 Ask me about Porgramming,Technology,GeoPolitics,World Affairs <br/>
-<!-- 😄 Pronouns: Coder, Learner, Enthusiastic, Passionate <br/> -->
 ⚡ Fun fact: I ❤️ Playing Video Games 
+<!-- 🌱 I’m currently learning  <br/> -->
+<!-- 😄 Pronouns: Coder, Learner, Enthusiastic, Passionate <br/> -->
+
 <br/>
 <br/>
 <br/>
